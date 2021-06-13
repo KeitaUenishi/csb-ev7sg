@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://keitauenishi.github.io/csb-ev7sg/static/css/main.95b08afd.chunk.css",
+    "main.js": "https://keitauenishi.github.io/csb-ev7sg/static/js/main.ef6fcdd2.chunk.js",
+    "main.js.map": "https://keitauenishi.github.io/csb-ev7sg/static/js/main.ef6fcdd2.chunk.js.map",
+    "runtime-main.js": "https://keitauenishi.github.io/csb-ev7sg/static/js/runtime-main.a18edbaa.js",
+    "runtime-main.js.map": "https://keitauenishi.github.io/csb-ev7sg/static/js/runtime-main.a18edbaa.js.map",
+    "static/js/2.e034a788.chunk.js": "https://keitauenishi.github.io/csb-ev7sg/static/js/2.e034a788.chunk.js",
+    "static/js/2.e034a788.chunk.js.map": "https://keitauenishi.github.io/csb-ev7sg/static/js/2.e034a788.chunk.js.map",
+    "index.html": "https://keitauenishi.github.io/csb-ev7sg/index.html",
+    "static/css/main.95b08afd.chunk.css.map": "https://keitauenishi.github.io/csb-ev7sg/static/css/main.95b08afd.chunk.css.map",
+    "static/js/2.e034a788.chunk.js.LICENSE.txt": "https://keitauenishi.github.io/csb-ev7sg/static/js/2.e034a788.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18edbaa.js",
+    "static/js/2.e034a788.chunk.js",
+    "static/css/main.95b08afd.chunk.css",
+    "static/js/main.ef6fcdd2.chunk.js"
+  ]
+}
